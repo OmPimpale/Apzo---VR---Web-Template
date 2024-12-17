@@ -1,1 +1,1 @@
-# Apzo---VR---Web-Template
+# Apzo-VR-Web-Template
