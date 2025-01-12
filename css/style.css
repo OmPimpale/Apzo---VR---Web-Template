@@ -8,6 +8,7 @@
 html,
 body {
     margin: 0px;
+    overflow-x: hidden;
 }
 
 /* navbar */
@@ -331,7 +332,7 @@ body {
     margin: 0px 20px;
 }
 
-.numdata {
+.counter {
     color: var(--textcolor);
     font-family: var(--font);
     font-size: 43px;
@@ -366,37 +367,18 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 100px 0px;
-}
-
-#useinner {
-    display: flex;
-    justify-content: center;
+    padding: 80px 0px;
 }
 
 .usediv {
     border-radius: 8px;
+    /* margin: 0px auto !important; */
 }
 
 .useimg {
-    width: 250px;
+    width: 250px !important;
+    margin: 0px auto;
     border-radius: 8px;
-}
-
-#showdiv1 {
-    display: none;
-}
-
-#showdiv2 {
-    display: none;
-}
-
-#showdiv3 {
-    display: none;
-}
-
-#showdiv4 {
-    display: none;
 }
 
 #useheading {
@@ -405,7 +387,8 @@ body {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
-    margin: 20px;
+    padding: 20px;
+    margin: 0px;
 }
 
 #usepara {
@@ -421,7 +404,6 @@ body {
 .usehead {
     text-align: center;
     margin-bottom: 40px;
-    padding-top: 70%;
 }
 
 .uselink {
@@ -430,16 +412,11 @@ body {
     font-family: var(--font);
     font-size: 22px;
     font-weight: 600;
+    transition: all .4s ease-in-out;
 }
 
-#uselist {
-    padding: 0px;
-    display: flex;
-    justify-content: center;
-}
-
-.useitem {
-    list-style-type: none;
+.uselink:hover {
+    color: rgb(44, 58, 143);
 }
 
 .usebtn {
@@ -450,10 +427,10 @@ body {
 }
 
 .hovereffect1 {
-    float: left;
     overflow: hidden;
     position: relative;
     text-align: center;
+    display: block;
     cursor: default;
 }
 
@@ -1119,14 +1096,11 @@ body {
 
     /* usecases */
     .useimg {
-        width: 200px;
+        width: 280px !important;
+        margin: auto;
     }
 
-    #useinner {
-        justify-content: space-evenly;
-    }
-
-    #showdiv1 {
+    /* #showdiv1 {
         display: block;
     }
 
@@ -1140,7 +1114,7 @@ body {
 
     #hidelist2 {
         display: none;
-    }
+    } */
 
     /* featured */
     #featuredchild1 {
@@ -1299,7 +1273,7 @@ body {
 
     /* usecases */
     .useimg {
-        width: 280px;
+        width: 300px !important;
     }
 
     /* featured */
@@ -1368,13 +1342,8 @@ body {
         margin: 0px 80px;
     }
 
-    /* usecases */
-    #useinner {
-        margin: 0px 60px;
-    }
-
     .useimg {
-        width: 380px;
+        width: 300px !important;
     }
 
     /* featured */
