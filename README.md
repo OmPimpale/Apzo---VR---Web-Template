@@ -19,4 +19,4 @@ To get started with project, follow the steps: <br/>
 
 2. Open <strong>index.html</strong> file and go live.
 
-3. <srong>Direct Downloade the zip folder.</strong>
+3. <srong>Direct Downloade the zip folder from <a href="https://github.com/OmPimpale/Apzo---VR---Web-Template.gi">here</a>.</strong>
