@@ -1,4 +1,5 @@
-# Apzo-VR-Web-Template : The Apzo VR Web Template is a sleek and modern website design tailored for Virtual Reality technology businesses, startups, and enthusiasts. Designed with a futuristic feel, it offers a clean layout and engaging visuals to captivate users.
+#Apzo Virtual Reality <i class="fa-solid fa-user"></i>
+The Apzo VR Web Template is a sleek and modern website build using basic <strong> HTML </strong> and <strong> CSS </strong>
 
 This template is optimized for businesses showcasing their VR solutions, promoting demos, or offering services in the virtual reality space. With a professional layout and responsive design, Apzo VR ensures an impressive user experience across devices.
 
