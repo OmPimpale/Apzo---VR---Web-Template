@@ -9,6 +9,7 @@ Check out the live demo of the project <a href="https://ompimpale.github.io/Apzo
   <li><strong>Responsive Design</strong>: Optimized for mobile, tablet, and desktop views.</li>
   <li><strong>HTML</strong>: Most basic for Development Create structure of web page.</li>
   <li><strong>CSS</strong>: Usefull for styling the web page.</li>
+  <li><strong>JS</strong>: Used for adding more interaction features.</li>
 </ul>
 
 # Installation
