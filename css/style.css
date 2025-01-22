@@ -476,8 +476,14 @@ body {
     padding: 0px 20px;
 }
 
+#featuredimg{
+    text-align: center;
+}
+
 .featuredimages {
-    margin: 20px 0px;
+    /* width: 100%; */
+    margin: 20px auto !important;
+
 }
 
 /* news */
@@ -508,7 +514,7 @@ body {
 
 .newsdiv {
     background-color: white;
-    width: 16rem;
+    width: 100%;
     margin: 40px auto;
     border-radius: 7px;
     box-sizing: border-box;
@@ -1121,10 +1127,6 @@ body {
         margin-top: 150px;
     }
 
-    .featuredimages {
-        width: 120px;
-    }
-
     #featuredimg {
         display: flex;
         justify-content: space-evenly;
@@ -1133,7 +1135,7 @@ body {
 
     /* news */
     .newsdiv {
-        width: 14rem;
+        width: 31%;
     }
 
     #newsflex {
