@@ -20,8 +20,10 @@ Check out the live demo of the project <a href="https://ompimpale.github.io/Apzo
 To get started with project, follow the steps: <br/>
 
 1. <strong>Clone the repository</strong>: <br/>
-   <code>git clone https://github.com/OmPimpale/Apzo---VR---Web-Template.git</code> <br/>
-   <code>cd Apzo---VR---Web-Template</code>
+   ```sh
+   git clone https://github.com/OmPimpale/Apzo---VR---Web-Template.git
+   cd Apzo---VR---Web-Template
+   ```
 
 2. Open <strong>index.html</strong> file and go live.
 
